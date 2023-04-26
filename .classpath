@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="dist/lib/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="dist/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="dist/lib/KControls-2.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="dist/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="dist/PS23306_NguyenHuuHoang_SOF2041.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibTestNG/testng-7.6.0.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibTestNG/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibTestNG/jquery-3.6.0.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibTestNG/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibTestNG/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK3/SOF203/LibSQL/sqljdbc_11.2.3.0_enu/sqljdbc_11.2/enu/mssql-jdbc-11.2.3.jre18.jar"/>
+	<classpathentry kind="lib" path="H:/FPT-Polytechnic/FPT-Polytechnic/HK4/SOF2041/PS23306_NguyenHuuHoang_Lab12/PS23306_NguyenHuuHoang_SOF2041/dist/lib/flatlaf-2.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

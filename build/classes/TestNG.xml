@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test SOF2041" verbose="1">
+	<test name="FormLoginNGTest">
+		<groups>
+			<run>
+				<include name="Validate_form"></include>
+				<include name="SignIn"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="poly.com.ui.FormLoginNGTest"></class>
+		</classes>
+	</test>
+	<test name="FormMainNGTest">
+		<groups>
+			<run>
+				<include name="Validate_formNV"></include>
+				<include name="AddNV"></include>
+				<include name="UpdateNV"></include>
+				<include name="DeleteNV"></include>
+			</run>
+		</groups>
+		<classes>
+			<class name="poly.com.ui.FormMainNGTest"></class>
+		</classes>
+	</test>
+</suite>
+
